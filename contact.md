@@ -5,11 +5,11 @@ layout: default
 ---
 
 <p align="center">
-<a href="mailto:jeanpatrick.francoia@gmail.com" class="button">Email</a>
+<a href="mailto:laurent.vial@ymail.com" class="button">Email</a>
 </p>
 <p align="center">
-<a href="https://twitter.com/JPFrancoia" class="button">Twitter</a>
+<a href="https://twitter.com/lo_vial" class="button">Twitter</a>
 </p>
 <p align="center">
-<a href="https://github.com/JPFrancoia" class="button">Github</a>
+<a href="https://github.com/lovial" class="button">Github</a>
 </p>

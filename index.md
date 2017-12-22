@@ -1,5 +1,5 @@
 ---
-title: "Jean-Patrick Francoia"
+title: "Laurent Vial"
 layout: default
 
 ---
@@ -7,26 +7,10 @@ layout: default
 # About me
 
 <p align="justify">
-After obtaining a Master degree in chemistry, I moved to Montpellier (France)
-to become a PhD student. Under the supervision of Dr Laurent Vial, I studied
-the fascinating field of supramolecular chemistry, applied to biosensing. I
-was awarded a PhD in 2016.
-</p>
-
-<p align="justify">
-In 2017, I moved to Glasgow to join the group of
-<a href="http://www.chem.gla.ac.uk/cronin">Prof. Lee Cronin</a> as a
-PostDoc. I'm now a part of the "reactionware" team, which aims to digitize
-organic chemistry through, for example, 3D printed reactors. In my day to day
-work, I research new techniques to improve the capabilities of these reactors.
+I am a CNRS research scientist (University of Lyon, France), currently working on artificial receptors for biologically relevant molecules with applications as biosensors or therapeutics.
 </p>
 
 # Recent Publications
-
-- Digitization of multi-step organic synthesis in reactionware for on
-demand pharmaceuticals  
-P. J. Kitson, G. Marie, J.-P. Francoia, S. S. Zalesskiy, R. C. Sigerson,
-J. S. Mathieson and L. Cronin *Science*, 2017, *accepted*
 
 - [Everything you always wanted to know about poly-*L*-lysine dendrigrafts (but were afraid to ask)](http://onlinelibrary.wiley.com/wol1/doi/10.1002/chem.201704147/abstract)  
 J.-P. Francoia and L. Vial, *Chem. Eur. J.*, 2017, **DOI:**
@@ -67,39 +51,3 @@ J.-P. Francoia, R. Pascal, and L. Vial, *Chem. Commun.*, 2015, **51**,
 <p align="center">
   <img src="images/heparin.gif">
 </p>
-
-- [A Double Conformationally Restricted Dynamic Supramolecular System for the Substrate-Selective Epoxidation of Olefins—A Comparative Study on the Influence of Preorganization](http://onlinelibrary.wiley.com/doi/10.1002/cctc.201402726/full)  
-E. Lindbäck, S. Cherraben, J.-P. Francoïa, E. Sheibani, B. Lukowski,
-A. Proñ, H. Norouzi-Arasi, K. Månsson, P. Bujalowski, A. Cederbalk,
-T. H. Pham, T. Wixe, S. Dawaigher and K. Wärnmark, *ChemCatChem*, 2015,
-**7**, 333 - <font color="#159957">citation: 1</font>  
-
-- [Multi-Technique Characterization of Poly-L-lysine Dendrigrafts–Cu(II) Complexes for Biocatalysis](http://onlinelibrary.wiley.com/doi/10.1002/mabi.201400341/abstract)
-J.-C. Rossi, B. Maret, K. Vidot, J.-P. Francoia, M. Cangiotti, S. Lucchi,
-C. Coppola, and M. F. Ottaviani, *Macromol. Biosci.*, 2015, **15**, 275 - <font color="#159957">citations: 4</font>  
-<p align="center">
-  <img src="images/chara.png">
-</p>
-
-
-# Conferences
-
-Slides and posters available [here](https://github.com/JPFrancoia/PostersSlides)
-
-- **JMJC 2016 (Journées Méditerranéennes des Jeunes Chercheurs)**, *Nice*, France  
-Poster presentation
-
-- **MSMLG 2016 (Molecular Sensors and Molecular Logic Gates)**, *Bath*, United Kingdom  
-Oral presentation and poster presentation
-
-- **JMJC 2015 (Journées Méditerranéennes des Jeunes Chercheurs)**, *Montpellier*, France  
-Oral presentation
-
-- **MeMoSim 2015 (Modeling Methods and multiscale Simulations)**, *Lyon*, France  
-Poster presentation
-
-- **Balard Chemistry Conferences 2014**, *La Grande Motte*, France  
-Poster presentation
-
-- **JJC 2014 (Journées des Jeunes Chercheurs)**, *Montpellier*, France  
-Poster presentation
