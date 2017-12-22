@@ -16,7 +16,7 @@ My name is Laurent Vial, and I'm a CNRS research scientist (University of Lyon, 
 J.-P. Francoia and L. Vial, *Chem. Eur. J.*, 2017, **DOI:**
 10.1002/chem.201704147
 <p align="center">
-  <img src="images/review.png width="200">
+  <img src="images/review.png" width="200">
 </p>
 
 - [Digitizing Poly-*L*-Lysine Dendrigrafts: from Experimental Data to Molecular Dynamics Simulations](http://pubs.acs.org/doi/pdf/10.1021/acs.jcim.7b00258)  
