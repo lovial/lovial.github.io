@@ -12,14 +12,14 @@ My name is Laurent Vial, and I'm a CNRS research scientist (University of Lyon, 
 
 # Recent Publications
 
-- [Everything you always wanted to know about poly-*L*-lysine dendrigrafts (but were afraid to ask)](http://onlinelibrary.wiley.com/wol1/doi/10.1002/chem.201704147/abstract)  
+- [Everything you always wanted to know about poly-*L*-lysine dendrigrafts (but were afraid to ask)](http://onlinelibrary.wiley.com/wol1/doi/10.1002/chem.201704147/abstract)
 J.-P. Francoia and L. Vial, *Chem. Eur. J.*, 2017, **DOI:**
 10.1002/chem.201704147
 <p align="center">
   <img src="images/review.png" width="400">
 </p>
 
-- [Digitizing Poly-*L*-Lysine Dendrigrafts: from Experimental Data to Molecular Dynamics Simulations](http://pubs.acs.org/doi/pdf/10.1021/acs.jcim.7b00258)  
+- [Digitizing Poly-*L*-Lysine Dendrigrafts: from Experimental Data to Molecular Dynamics Simulations](http://pubs.acs.org/doi/pdf/10.1021/acs.jcim.7b00258)
 J.-P. Francoia, J.-C Rossi, G. Monard and L. Vial, *J. Chem. Inf. Model.*,
 2017, **57**, 2173 
 <p align="center">
@@ -45,13 +45,13 @@ J.-P. Francoia and L. Vial, *J. Chem. Educ*, 2016, **93**, 1137 - <font color="#
   <img src="images/cb.png" width="400">
 </p>
 
-- [A KISS (Keep It Simple, Sensor) Array for Glycosaminoglycans](http://pubs.rsc.org/en/content/articlelanding/2014/cc/c5cc07628e\#!divAbstract)  
+- [A KISS (Keep It Simple, Sensor) Array for Glycosaminoglycans](http://pubs.rsc.org/en/content/articlelanding/2014/cc/c5cc07628e\#!divAbstract)
 J.-P. Francoia and L. Vial, *Chem. Commun.*, 2015, **51**, 17544  
 <p align="center">
   <img src="images/kiss.png" width="400">
 </p>
 
-- [Monitoring Clinical Levels of Heparin in Human Blood Samples with an Indicator-Displacement Assay](http://pubs.rsc.org/en/Content/ArticleLanding/2015/CC/c4cc08563a\#!divAbstract)  
+- [Monitoring Clinical Levels of Heparin in Human Blood Samples with an Indicator-Displacement Assay](http://pubs.rsc.org/en/Content/ArticleLanding/2015/CC/c4cc08563a\#!divAbstract)
 J.-P. Francoia, R. Pascal, and L. Vial, *Chem. Commun.*, 2015, **51**,
 1953 
 <p align="center">
@@ -59,7 +59,7 @@ J.-P. Francoia, R. Pascal, and L. Vial, *Chem. Commun.*, 2015, **51**,
 </p>
 
 - [Reduction with tris(2-carboxyethyl)phosphine (TCEP) enables the use of S-sulphonate protecting group for thiol-mediated bioconjugation](http://pubs.rsc.org/en/content/articlelanding/2014/ra/c3ra47407k#!divAbstract)  
-B. Maret, T. Regnier, J.-C. Rossi, L. Garrelly, L. Vial and R. Pascal, and L. Vial, *Rsc. Adv.*, 2015, **4**,
+B. Maret, T. Regnier, J.-C. Rossi, L. Garrelly, L. Vial and R. Pascal, *Rsc. Adv.*, 2015, **4**,
 7725  
 <p align="center">
 <img src="images/tcep.png" width="400">
