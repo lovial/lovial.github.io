@@ -42,20 +42,20 @@ P.-T. Skowron, M. Dumartin, E. Jeamet, F. Perret, C. Gourlaouen, A. Baudouin, B.
 - [ChemBrows: An Open-Source Application Software To Keep Up to Date with the Current Literature](http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.6b00024)  
 J.-P. Francoia and L. Vial, *J. Chem. Educ*, 2016, **93**, 1137 - <font color="#159957">open access</font>  
 <p align="center">
-  <img src="images/cb.png width="400"">
+  <img src="images/cb.png" width="400">
 </p>
 
 - [A KISS (Keep It Simple, Sensor) Array for Glycosaminoglycans](http://pubs.rsc.org/en/content/articlelanding/2014/cc/c5cc07628e\#!divAbstract)  
 J.-P. Francoia and L. Vial, *Chem. Commun.*, 2015, **51**, 17544  
 <p align="center">
-  <img src="images/kiss.png width="400"">
+  <img src="images/kiss.png" width="400">
 </p>
 
 - [Monitoring Clinical Levels of Heparin in Human Blood Samples with an Indicator-Displacement Assay](http://pubs.rsc.org/en/Content/ArticleLanding/2015/CC/c4cc08563a\#!divAbstract)  
 J.-P. Francoia, R. Pascal, and L. Vial, *Chem. Commun.*, 2015, **51**,
 1953 
 <p align="center">
-  <img src="images/heparin.png"width="400">
+  <img src="images/tcep" width="400">
 </p>
 
 - [Reduction with tris(2-carboxyethyl)phosphine (TCEP) enables the use of S-sulphonate protecting group for thiol-mediated bioconjugation](http://pubs.rsc.org/en/content/articlelanding/2014/ra/c3ra47407k#!divAbstract)  
