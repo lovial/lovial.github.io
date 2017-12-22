@@ -7,7 +7,7 @@ layout: default
 # About me
 
 <p align="justify">
-My name is Laurent Vial, and I'm a CNRS research scientist (University of Lyon, France), currently working on artificial receptors for biologically relevant molecules with applications as biosensors or therapeutics.
+My name is Laurent Vial, and I'm a CNRS research scientist (University of Lyon, France) who is currently working on artificial receptors for biologically relevant molecules with applications as biosensors or therapeutics.
 </p>
 
 # Recent Publications
