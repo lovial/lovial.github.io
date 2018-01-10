@@ -12,7 +12,7 @@ excerpt: "ChemBrows is a software that helps you to stay up-to-date with the flo
 
 Working as an enhanced RSS reader filled with powerful features, including machine learning, ChemBrows is continuously improved and updated to provide the scientific community with the best possible software.
 
-Available for Mac OS X, Linux and Windows : download your version of ChemBrows [here](http://www.chembrows.com/website/index.php?static3/about)here !
+Available for Mac OS X, Linux and Windows : download your version of ChemBrows [here](http://www.chembrows.com/website/index.php?static3/about)!
 
 For more information, read [our paper](http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.6b00024). 
 
