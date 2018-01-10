@@ -3,7 +3,7 @@ layout: posts
 title:  "ChemBrows 1.0"
 image: cb.png
 
-excerpt: "<img src="/{{ site.baseurl }}/images/cb.png" width="400">ChemBrows is a free and open-source software that helps you to stay up-to-date with the flood of scientific literature that is published every single day"
+excerpt: "ChemBrows is a free and open-source software that helps you to stay up-to-date with the flood of scientific literature that is published every single day"
 
 ---
 <p align="center">
