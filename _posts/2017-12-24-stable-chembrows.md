@@ -4,10 +4,11 @@ title:  "ChemBrows 1.0"
 image: cb.png
 
 excerpt: "ChemBrows is a free and open-source software that helps you to stay up-to-date with the flood of scientific literature that is published every single day"
-    <img src="images/cb.png" width="400">
+
 ---
 <p align="center">
   <img width="500" src="{{ site.baseurl }}/images/interface.jpg">
+  <img src="images/cb.png" width="400">
 </p> 
 
 
