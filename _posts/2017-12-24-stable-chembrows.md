@@ -8,7 +8,7 @@ excerpt: "ChemBrows is a free and open-source software that helps you to stay up
 ---
 <p align="center">
   <img width="500" src="{{ site.baseurl }}/images/interface.jpg">
-  <img src="images/cb.png" width="400">
+  <img src="{{ site.baseurl }}/images/cb.png" width="400">
 </p> 
 
 
