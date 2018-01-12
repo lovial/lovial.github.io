@@ -16,9 +16,7 @@ Working as an enhanced RSS reader filled with powerful features, including machi
 
 For more information, you can also read [our paper](http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.6b00024). 
 
-<br>
-
-Here are a few statistics about ChemBrows as of today (24/12/2017).  
+Here are a few statistics about ChemBrows as of today (24/12/2017):  
 
 
 | Total users    | 255 |
