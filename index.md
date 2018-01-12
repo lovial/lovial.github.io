@@ -7,7 +7,7 @@ layout: default
 # About me
 
 <p align="justify">
-Welcome here! My name is Laurent Vial, and I'm a [CNRS](http://cnrs.fr/en/institutes/inc-chemistry.html) research scientist at the [Institut de Chimie et de Biochimie Moléculaires et Supramoléculaires](http://icbms.fr/csap) ([University of Lyon](http://universite-lyon.fr/), France). My research interests focus on artificial receptors for biologically relevant molecules with applications as biosensors or therapeutics.
+Welcome here! My name is Laurent Vial, and I'm a [CNRS](http://www.cnrs.fr/en/institutes/inc-chemistry.html) research scientist at the [Institut de Chimie et de Biochimie Moléculaires et Supramoléculaires](http://icbms.fr/csap) ([University of Lyon](http://universite-lyon.fr/), France). My research interests focus on artificial receptors for biologically relevant molecules with applications as biosensors or therapeutics.
 </p>
 
 # Recent Publications
