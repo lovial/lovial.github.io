@@ -3,7 +3,6 @@ title: "Laurent Vial"
 layout: default
 
 ---
-<p align="justify">
 
 # About me
 
@@ -62,6 +61,4 @@ B. Maret, T. Regnier, J.-C. Rossi, L. Garrelly, L. Vial and R. Pascal, *Rsc. Adv
 7725  
 <p align="center">
 <img src="images/tcep.png" width="400">
-</p>
-
 </p>
