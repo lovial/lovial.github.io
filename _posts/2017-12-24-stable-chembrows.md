@@ -8,10 +8,8 @@ excerpt: "ChemBrows is a free and open-source software that helps you to stay up
 ---
 <p align="center">
   <img width="500" src="{{ site.baseurl }}/images/interface.jpg">
+</p>
 
-</p> 
-
-<p align="justify">
 Working as an enhanced RSS reader filled with powerful features, including machine learning, ChemBrows is continuously improved and updated to provide the scientific community with the best possible software. Feel free to download your version of ChemBrows [here](http://www.chembrows.com/website/index.php?static3/about), it is available for Mac OS X, Linux and Windows!
 
 Here are a few statistics about ChemBrows as of today (24/12/2017):  
@@ -31,5 +29,3 @@ For more information, you can also read [our paper](http://pubs.acs.org/doi/abs/
 
 For up-to-date updates about ChemBrows, follow it on Twitter:
 [@ChemBrows](https://twitter.com/ChemBrows)
-
-</p> 
