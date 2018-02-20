@@ -26,5 +26,5 @@ Here are a few statistics about ChemBrows as of today (24/12/2017):
 
 <br>
 For more information, you can also read [our paper](http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.6b00024) (open-source) 
-For up-to-date updates about ChemBrows, follow it on Twitter:
-[@ChemBrows](https://twitter.com/ChemBrows)
+
+For up-to-date updates about ChemBrows, follow it on Twitter:[@ChemBrows](https://twitter.com/ChemBrows)
