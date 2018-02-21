@@ -8,7 +8,7 @@ layout: default
 
 Welcome here ! My name is Laurent Vial, and I'm a [CNRS](http://www.cnrs.fr/en/institutes/inc-chemistry.html) research scientist at the [Institut de Chimie et de Biochimie Moléculaires et Supramoléculaires](http://icbms.fr/csap) ([University of Lyon](http://universite-lyon.fr/), France). My research interests focus on artificial receptors for biologically relevant molecules with applications as biosensors or therapeutics.
 
-# Recent Publications
+# Last Publications
 
 - [Everything you always wanted to know about poly-*L*-lysine dendrigrafts (but were afraid to ask)](http://onlinelibrary.wiley.com/wol1/doi/10.1002/chem.201704147/abstract)
 J.-P. Francoia and L. Vial, *Chem. Eur. J.*, 2017, **DOI:**
@@ -57,7 +57,7 @@ J.-P. Francoia, R. Pascal, and L. Vial, *Chem. Commun.*, 2015, **51**,
 </p>
 
 - [Reduction with tris(2-carboxyethyl)phosphine (TCEP) enables the use of S-sulphonate protecting group for thiol-mediated bioconjugation](http://pubs.rsc.org/en/content/articlelanding/2014/ra/c3ra47407k#!divAbstract)
-B. Maret, T. Regnier, J.-C. Rossi, L. Garrelly, L. Vial and R. Pascal, *Rsc. Adv.*, 2015, **4**,
+B. Maret, T. Regnier, J.-C. Rossi, L. Garrelly, L. Vial and R. Pascal, *Rsc. Adv.*, 2014, **4**,
 7725  
 <p align="center">
 <img src="images/tcep.png" width="400">
