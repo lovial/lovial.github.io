@@ -6,19 +6,19 @@ layout: default
 
 # About me
 
-<div class="align-justify">
-	Welcome here ! My name is Laurent Vial, and I'm a [CNRS](http://www.cnrs.fr/en/institutes/inc-chemistry.html) research scientist at the [Institut de Chimie et de Biochimie Moléculaires et Supramoléculaires](http://icbms.fr/csap) ([University of Lyon](http://universite-lyon.fr/), France). My research interests focus on artificial receptors for biologically relevant molecules with applications as biosensors or therapeutics.
-</div>
+<p align="center">
+	Welcome here ! My name is Laurent Vial, and I'm a <a href="http://www.cnrs.fr/en/institutes/inc-chemistry.html">CNRS</a>sresearch scientist at the [Institut de Chimie et de Biochimie Moléculaires et Supramoléculaires](http://icbms.fr/csap) ([University of Lyon](http://universite-lyon.fr/), France). My research interests focus on artificial receptors for biologically relevant molecules with applications as biosensors or therapeutics.
+</p>
 
 # Last Publications
 
-- [Everything you always wanted to know about poly-*L*-lysine dendrigrafts (but were afraid to ask)](http://onlinelibrary.wiley.com/wol1/doi/10.1002/chem.201704147/abstract)
+- [Everything you always wanted to know about poly-*L*-lysine dendrigrafts (but were afraid to ask)](http://onlinelibrary.wiley.com/wol1/doi/10.1002/chem.201704147/abstract)<br />
 J.-P. Francoia and L. Vial, *Chem. Eur. J.*, 2017, **24**, 2806 
 <p align="center">
   <img src="images/review.jpg" width="400">
 </p>
 
-- [Digitizing Poly-*L*-Lysine Dendrigrafts: from Experimental Data to Molecular Dynamics Simulations](http://pubs.acs.org/doi/pdf/10.1021/acs.jcim.7b00258)
+- [Digitizing Poly-*L*-Lysine Dendrigrafts: from Experimental Data to Molecular Dynamics Simulations](http://pubs.acs.org/doi/pdf/10.1021/acs.jcim.7b00258)<br />
 J.-P. Francoia, J.-C Rossi, G. Monard and L. Vial, *J. Chem. Inf. Model.*,
 2017, **57**, 2173 
 <p align="center">
