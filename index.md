@@ -6,13 +6,14 @@ layout: default
 
 # About me
 
-Welcome here ! My name is Laurent Vial, and I'm a [CNRS](http://www.cnrs.fr/en/institutes/inc-chemistry.html) research scientist at the [Institut de Chimie et de Biochimie Moléculaires et Supramoléculaires](http://icbms.fr/csap) ([University of Lyon](http://universite-lyon.fr/), France). My research interests focus on artificial receptors for biologically relevant molecules with applications as biosensors or therapeutics.
+<div class="align-justify">
+	Welcome here ! My name is Laurent Vial, and I'm a [CNRS](http://www.cnrs.fr/en/institutes/inc-chemistry.html) research scientist at the [Institut de Chimie et de Biochimie Moléculaires et Supramoléculaires](http://icbms.fr/csap) ([University of Lyon](http://universite-lyon.fr/), France). My research interests focus on artificial receptors for biologically relevant molecules with applications as biosensors or therapeutics.
+</div>
 
 # Last Publications
 
 - [Everything you always wanted to know about poly-*L*-lysine dendrigrafts (but were afraid to ask)](http://onlinelibrary.wiley.com/wol1/doi/10.1002/chem.201704147/abstract)
-J.-P. Francoia and L. Vial, *Chem. Eur. J.*, 2017, **DOI:**
-10.1002/chem.201704147
+J.-P. Francoia and L. Vial, *Chem. Eur. J.*, 2017, **24**, 2806 
 <p align="center">
   <img src="images/review.jpg" width="400">
 </p>
