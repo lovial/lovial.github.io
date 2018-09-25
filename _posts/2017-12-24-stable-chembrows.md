@@ -12,17 +12,17 @@ excerpt: "ChemBrows is a free and open-source software that helps you to stay up
 
 Working as an enhanced RSS reader filled with powerful features, including machine learning, ChemBrows is continuously improved and updated to provide the scientific community with the best possible software. Feel free to download your version of ChemBrows [here](http://www.chembrows.com/website/index.php?static3/about), it is available for Mac OS X, Linux and Windows !
 
-Here are a few statistics about ChemBrows as of today (21/02/2018):  
+Here are a few statistics about ChemBrows as of today (25/09/2018):  
 
 
-| Total users    | 288 |
-|----------------|-----|
-| Ph. D students | 81  |
-| Students       | 24  |
-| Researchers    | 65  |
-| Post docs      | 32  |
-| Professors     | 70  |
-| Obi Wan Kenobi | 16  |
+| Total users    | 354  |
+| -------------- | ---- |
+| Ph. D students | 100  |
+| Students       | 33   |
+| Researchers    | 78   |
+| Post docs      | 43   |
+| Professors     | 81   |
+| Obi Wan Kenobi | 1ç   |
 
 <br>
 For more information, you can also read [our paper](http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.6b00024) (open-source) 
