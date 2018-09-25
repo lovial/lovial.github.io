@@ -16,13 +16,13 @@ Here are a few statistics about ChemBrows as of today (25/09/2018):
 
 
 | Total users    | 354  |
-| -------------- | ---- |
+| -------------- | :--: |
 | Ph. D students | 100  |
-| Students       | 33   |
-| Researchers    | 78   |
-| Post docs      | 43   |
-| Professors     | 81   |
-| Obi Wan Kenobi | 1ç   |
+| Students       |  33  |
+| Researchers    |  78  |
+| Post docs      |  43  |
+| Professors     |  81  |
+| Obi Wan Kenobi |  1ç  |
 
 <br>
 For more information, you can also read [our paper](http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.6b00024) (open-source) 

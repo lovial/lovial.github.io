@@ -10,7 +10,7 @@ layout: default
 	Welcome here ! My name is Laurent Vial, and I'm a <a href="http://www.cnrs.fr/en/institutes/inc-chemistry.html">CNRS</a> research scientist at the <a href="http://universite-lyon.fr/">Institut de Chimie et de Biochimie Moléculaires et Supramoléculaires</a> within the <a href="http://universite-lyon.fr/">Université de Lyon</a>. My research interests focus on artificial receptors for biologically relevant molecules with applications as biosensors or therapeutics.
 </p>
 
-# My last Publications
+# My latest Publications
 
 - Diastereoselective Synthesis of a Dyn[3]arene with Distinct Binding Behaviors toward Linear Biogenic Polyamines](https://pubs.acs.org/doi/abs/10.1021/acs.orglett.8b00766)<br />
 
@@ -36,8 +36,7 @@ layout: default
 
 - [Chirality Sensing and Discrimination of Lysine Derivatives in Physiological Conditions with a Dyn\[4\]arene](http://pubs.rsc.org/en/content/articlelanding/2016/cc/c6cc07713g)
 
-  L. Vial, M. Dumartin, M. Donnier-Maréchal, F. Perret, J.-P. Francoia,
-  J. Leclaire, *Chem. Commun.*, 2016, **52**, 14219
+  L. Vial, M. Dumartin, M. Donnier-Maréchal, F. Perret, J.-P. Francoia, J. Leclaire, *Chem. Commun.*, 2016, **52**, 14219
 <p align="center">
   <img src="images/chirality.jpg" width="400">
 </p>
