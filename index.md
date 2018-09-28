@@ -64,16 +64,14 @@ layout: default
 
 - [Monitoring Clinical Levels of Heparin in Human Blood Samples with an Indicator-Displacement Assay](http://pubs.rsc.org/en/Content/ArticleLanding/2015/CC/c4cc08563a\#!divAbstract)
 
-  J.-P. Francoia, R. Pascal, and L. Vial, *Chem. Commun.*, 2015, **51**,
-  1953 
+  J.-P. Francoia, R. Pascal, and L. Vial, *Chem. Commun.*, 2015, **51**, 1953 
 <p align="center">
   <img src="images/heparin.jpg" width="400">
 </p>
 
 - [Reduction with tris(2-carboxyethyl)phosphine (TCEP) enables the use of S-sulphonate protecting group for thiol-mediated bioconjugation](http://pubs.rsc.org/en/content/articlelanding/2014/ra/c3ra47407k#!divAbstract)
 
-  B. Maret, T. Regnier, J.-C. Rossi, L. Garrelly, L. Vial and R. Pascal, *Rsc. Adv.*, 2014, **4**,
-  7725  
+  B. Maret, T. Regnier, J.-C. Rossi, L. Garrelly, L. Vial and R. Pascal, *Rsc. Adv.*, 2014, **4**, 7725  
 <p align="center">
 <img src="images/tcep.png" width="400">
 </p>
