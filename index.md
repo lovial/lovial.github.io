@@ -7,14 +7,15 @@ layout: default
 # About me
 
 <p align="justify">
-	Welcome here ! My name is Laurent Vial, and I'm a <a href="http://www.cnrs.fr/en/institutes/inc-chemistry.html">CNRS</a> research scientist at the <a href="http://universite-lyon.fr/">Institut de Chimie et de Biochimie Moléculaires et Supramoléculaires</a> within the <a href="http://universite-lyon.fr/">Université de Lyon</a>. My research interests focus on artificial receptors for biologically relevant molecules with applications as biosensors or therapeutics.
+	Welcome here ! My name is Laurent Vial, and I'm a <a href="http://www.cnrs.fr/en/institutes/inc-chemistry.html">CNRS</a> research scientist at the <a href="http://universite-lyon.fr/">Institut de Chimie et de Biochimie Moléculaires et Supramoléculaires</a> within the <a href="http://universite-lyon.fr/">Université de Lyon</a>. My research interests focus on artificial receptors for biologically relevant molecules with applications as biosensors or therapeutics
 </p>
+
 
 # My latest Publications
 
 - [Diastereoselective Synthesis of a Dyn[3]arene with Distinct Binding Behaviors toward Linear Biogenic Polyamines](https://pubs.acs.org/doi/abs/10.1021/acs.orglett.8b00766)<br />
 
-  M. Donnier-Maréchal, J. Septavaux, E. Jeamet, F. Perret, A. Héloin, E. Dumont, J.-C. Rossi, F. Ziarelli, J. Leclaire and L. Vial, *Org. Lett.* 2018, **20**, 2420.
+  M. Donnier-Maréchal, J. Septavaux, E. Jeamet, F. Perret, A. Héloin, E. Dumont, J.-C. Rossi, F. Ziarelli, J. Leclaire and L. Vial, *Org. Lett.* 2018, **20**, 2420
 
   <p align="center">
     <img src="images/A3.jpg" width="400">
