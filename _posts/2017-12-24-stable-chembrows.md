@@ -15,7 +15,8 @@ Working as an enhanced RSS reader filled with powerful features, including machi
 </p>
 
 <p align="justify">
-<a href="https://twitter.com/JPFrancoia">@JPFrancoia</a> and myself conceived the software, <a href="https://twitter.com/JPFrancoia">@JPFrancoia</a> carried out the programming work
+<a href="https://twitter.com/JPFrancoia">@JPFrancoia</a> and <a href="https://twitter.com/lo_vial">@lovial</a> conceived the software, <a href="https://twitter.com/JPFrancoia">@JPFrancoia</a> carried out the programming work
+    
 </p>
 
 ​    Here are a few statistics about ChemBrows as of today (25/09/2018): 
