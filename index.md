@@ -4,14 +4,14 @@ layout: default
 
 ---
 
-# About me
+# about me
 
 <p align="justify">
 	Welcome here ! My name is Laurent Vial, and I'm a <a href="http://www.cnrs.fr/en/institutes/inc-chemistry.html">CNRS</a> research scientist at the <a href="http://universite-lyon.fr/">Institut de Chimie et de Biochimie Moléculaires et Supramoléculaires</a> within the <a href="http://universite-lyon.fr/">Université de Lyon</a>. My research interests focus on artificial receptors for biologically relevant molecules with applications as biosensors or therapeutics
 </p>
 
 
-# My latest Publications
+# my latest Publications
 
 - [Diastereoselective Synthesis of a Dyn[3]arene with Distinct Binding Behaviors toward Linear Biogenic Polyamines](https://pubs.acs.org/doi/abs/10.1021/acs.orglett.8b00766)<br />
 
