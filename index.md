@@ -4,23 +4,31 @@ layout: default
 
 ---
 
-# About me
+# about me
 
 <p align="justify">
-	Welcome here ! My name is Laurent Vial, and I'm a <a href="http://www.cnrs.fr/en/institutes/inc-chemistry.html">CNRS</a> research scientist at the <a href="http://universite-lyon.fr/">Institut de Chimie et de Biochimie Moléculaires et Supramoléculaires</a> within the <a href="http://www.icbms.fr/csap/">CSAp team</a> in Lyon. My research interests focus on artificial receptors for biologically relevant molecules with applications as biosensors or therapeutics
+	Welcome here ! My name is Laurent Vial, and I'm a <a href="http://www.cnrs.fr/en/institutes/inc-chemistry.html">CNRS</a> research scientist within the <a href="http://www.icbms.fr/csap/">CSAp team</a> at the <a href="http://universite-lyon.fr/">Université de Lyon</a>, France. My research interests focus on artificial receptors for biologically relevant molecules with applications as biosensors or therapeutics
 </p>
 
 
 
-# my latest Publications
+
+# my latest publications
+
+- [Wetting the lock and key enthalpically favours polyelectrolytes binding](https://pubs.rsc.org/en/content/articlepdf/2018/sc/c8sc02966k)<br />
+
+  E. Jeamet, J. Septavaux, A. Heloin, M. Donnier-Maréchal, M. Dumartin, B. Ourri, P. Mandal, I. Huc, E. Bignon, E. Dumont, C. Morell, J.-P. Francoia, F. Perret, L. Vial and J. Leclaire, *Chem. Sci.*, 2018, DOI: 10.1039/C8SC02966K
+
+  <p align="center">
+    <img src="images/CS.jpg" width="400">
+  </p>
 
 - [Diastereoselective Synthesis of a Dyn[3]arene with Distinct Binding Behaviors toward Linear Biogenic Polyamines](https://pubs.acs.org/doi/abs/10.1021/acs.orglett.8b00766)<br />
 
   M. Donnier-Maréchal, J. Septavaux, E. Jeamet, F. Perret, A. Héloin, E. Dumont, J.-C. Rossi, F. Ziarelli, J. Leclaire and L. Vial, *Org. Lett.* 2018, **20**, 2420
-
-  <p align="center">
-    <img src="images/A3.jpg" width="400">
-  </p>
+<p align="center">
+  <img src="images/A3.jpg" width="400">
+</p>
 
 - [Everything you always wanted to know about poly-*L*-lysine dendrigrafts (but were afraid to ask)](http://onlinelibrary.wiley.com/wol1/doi/10.1002/chem.201704147/abstract)<br />
 
