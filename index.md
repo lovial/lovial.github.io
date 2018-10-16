@@ -9,9 +9,7 @@ layout: default
 <p align="justify">
 	Welcome here ! My name is Laurent Vial, and I'm a <a href="http://www.cnrs.fr/en/institutes/inc-chemistry.html">CNRS</a> research scientist within the <a href="http://www.icbms.fr/csap/">CSAp team</a> at the <a href="http://universite-lyon.fr/">Université de Lyon</a>, France. My research interests focus on artificial receptors for biologically relevant molecules with applications as biosensors or therapeutics
 </p>
-
-
-
+<a class="twitter-timeline" href="https://twitter.com/lo_vial?ref_src=twsrc%5Etfw">Tweets by lo_vial</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # my latest publications
 
