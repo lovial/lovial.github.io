@@ -40,7 +40,7 @@ layout: default
   <img src="images/digitizing.jpg" width="400">
 </p>
 
-- [Chirality Sensing and Discrimination of Lysine Derivatives in Physiological Conditions with a Dyn\[4\]arene](http://pubs.rsc.org/en/content/articlelanding/2016/cc/c6cc07713g)
+- [Chirality Sensing and Discrimination of Lysine Derivatives in Physiological Conditions with a Dyn[4]arene](http://pubs.rsc.org/en/content/articlelanding/2016/cc/c6cc07713g)<br />
 
   L. Vial<sup>\*</sup>, M. Dumartin, M. Donnier-Maréchal, F. Perret, J.-P. Francoia, J. Leclaire<sup>\*</sup> *Chem. Commun.*, 2016, **52**, 14219
 <p align="center">
