@@ -16,19 +16,19 @@ Working as an enhanced RSS reader filled with powerful features, including machi
 
 <p align="justify">
 <a href="https://twitter.com/JPFrancoia">@JPFrancoia</a> and <a href="https://twitter.com/lo_vial">@lovial</a> conceived the software, <a href="https://twitter.com/JPFrancoia">@JPFrancoia</a> carried out the programming work
-    
+
 </p>
 
 ​    Here are a few statistics about ChemBrows as of today (25/09/2018): 
 
 
-| Total users    | 354  |
+| Total users    | 368  |
 | -------------- | :--: |
-| Ph. D students | 100  |
-| Students       |  33  |
-| Researchers    |  78  |
-| Post docs      |  43  |
-| Professors     |  81  |
+| PhD students   | 103  |
+| Students       |  34  |
+| Researchers    |  82  |
+| Post docs      |  46  |
+| Professors     |  84  |
 | Obi Wan Kenobi |  19  |
 
 <br>
