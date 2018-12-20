@@ -13,7 +13,7 @@ layout: default
 
 - [Wetting the lock and key enthalpically favours polyelectrolytes binding](https://pubs.rsc.org/en/content/articlepdf/2018/sc/c8sc02966k)<br />
 
-  E. Jeamet, J. Septavaux, A. Heloin, M. Donnier-Maréchal, M. Dumartin, B. Ourri, P. Mandal, I. Huc, E. Bignon, E. Dumont<sup>\*</sup>, C. Morell, J.-P. Francoia, F. Perret, **L. Vial<sup>\*</sup>** and J. Leclaire<sup>\*</sup> *Chem. Sci.*, 2019, DOI: 10.1039/C8SC02966K
+  E. Jeamet, J. Septavaux, A. Heloin, M. Donnier-Maréchal, M. Dumartin, B. Ourri, P. Mandal, I. Huc, E. Bignon, E. Dumont<sup>\*</sup>, C. Morell, J.-P. Francoia, F. Perret, **L. Vial<sup>\*</sup>** and J. Leclaire<sup>\*</sup> *Chem. Sci.*, 2019, **10**, 277
 
   <p align="center">
     <img src="images/CS.jpg" width="400">
