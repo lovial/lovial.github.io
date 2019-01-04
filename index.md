@@ -4,7 +4,7 @@ layout: default
 
 ---
 
-*"Attempted murder!" Now, honestly, what is that? Do they give a Nobel Prize for attempted chemistry? Do they?"*
+*"Attempted murder! Now, honestly, what is that? Do they give a Nobel Prize for attempted chemistry? Do they?"*
 
 – Sideshow Bob (The Simpsons, S06e05)
 
