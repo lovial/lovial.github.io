@@ -4,11 +4,15 @@ layout: default
 
 ---
 
+*Attempted murder!" Now, honestly, what is that? Do they give a Nobel Prize for attempted chemistry? Do they?*
+– Sideshow Bob (The Simpsons, S06e05)
+
 # about me
 
 <p align="justify">
-	Welcome here ! My name is Laurent Vial, and I'm a <a href="http://www.cnrs.fr/en/institutes/inc-chemistry.html">CNRS</a> research scientist within the <a href="http://www.icbms.fr/csap/">CSAp team</a> at the <a href="http://universite-lyon.fr/">Université de Lyon</a>, France. My research interests focus on artificial receptors for biologically relevant molecules with applications as biosensors or therapeutics
+	Welcome here ! My name is Laurent Vial, and I'm a <a href="http://www.cnrs.fr/en/institutes/inc-chemistry.html">CNRS</a> research scientist within the <a href="http://www.icbms.fr/csap/">Applied Supramolecular Chemistry Group</a> at the <a href="http://universite-lyon.fr/">Université de Lyon</a>, France. My research interests focus on artificial receptors for biologically relevant molecules with applications as biosensors or therapeutics
 </p>
+
 # my latest publications
 
 - [Wetting the lock and key enthalpically favours polyelectrolytes binding](https://pubs.rsc.org/en/content/articlepdf/2018/sc/c8sc02966k)<br />
