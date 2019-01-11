@@ -4,9 +4,7 @@ layout: default
 
 ---
 
-*"Attempted murder! Now, honestly, what is that? Do they give a Nobel Prize for attempted chemistry? Do they?"*
-
-– Sideshow Bob (The Simpsons, S06e05)
+*"Attempted murder! Now, honestly, what is that? Do they give a Nobel Prize for attempted chemistry? Do they?"* – Sideshow Bob (The Simpsons, S06e05)
 
 # about me
 
@@ -16,7 +14,7 @@ layout: default
 
 # my latest publications
 
-- [Wetting the lock and key enthalpically favours polyelectrolytes binding](https://pubs.rsc.org/en/content/articlepdf/2018/sc/c8sc02966k)<br />
+- [Wetting the lock and key enthalpically favours polyelectrolytes binding](https://pubs.rsc.org/en/content/articlepdf/2018/sc/c8sc02966k)
 
   E. Jeamet, J. Septavaux, A. Heloin, M. Donnier-Maréchal, M. Dumartin, B. Ourri, P. Mandal, I. Huc, E. Bignon, E. Dumont<sup>\*</sup>, C. Morell, J.-P. Francoia, F. Perret, **L. Vial<sup>\*</sup>** and J. Leclaire<sup>\*</sup> *Chem. Sci.*, 2019, **10**, 277
 
