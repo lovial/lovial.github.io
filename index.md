@@ -35,13 +35,6 @@ layout: default
 
   M. Donnier-Maréchal, J. Septavaux, E. Jeamet, F. Perret, A. Héloin, E. Dumont, J.-C. Rossi, F. Ziarelli, J. Leclaire<sup>\*</sup> and **L. Vial<sup>\*</sup>** *Org. Lett.* 2018, **20**, 2420
 
-  <p align="center">
-    <img src="images/CS.jpg" width="400">
-  </p>
-
-- [Diastereoselective Synthesis of a Dyn[3]arene with Distinct Binding Behaviors toward Linear Biogenic Polyamines](https://pubs.acs.org/doi/abs/10.1021/acs.orglett.8b00766)<br />
-
-  M. Donnier-Maréchal, J. Septavaux, E. Jeamet, F. Perret, A. Héloin, E. Dumont, J.-C. Rossi, F. Ziarelli, J. Leclaire<sup>\*</sup> and **L. Vial<sup>\*</sup>** *Org. Lett.* 2018, **20**, 2420
 <p align="center">
   <img src="images/A3.jpg" width="400">
 </p>
