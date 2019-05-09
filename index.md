@@ -14,9 +14,26 @@ layout: default
 
 # my latest publications
 
+- [A Dendrigraft of Poly-*L*-lysine as a Promising Candidate for the Reversal
+  of Heparin-based Anticoagulants in Clinical Settings](https://pubs.acs.org/doi/10.1021/acsmedchemlett.9b00090)
+
+  B. Ourri, J.-P. Francoia, G. Monard<sup>\*</sup>, J.-C. Gris<sup>\*</sup>, J. Leclaire, **L. Vial<sup>\*</sup>** *ACS. Med Chem. Lett.*, 2019, **10**, DOI: 10.1021/acsmedchemlett.9b00090 
+
+  <p align="center">
+    <img src="images/med.png" width="400">
+  </p>
+
 - [Wetting the lock and key enthalpically favours polyelectrolytes binding](https://pubs.rsc.org/en/content/articlepdf/2018/sc/c8sc02966k)
 
-  E. Jeamet, J. Septavaux, A. Heloin, M. Donnier-Maréchal, M. Dumartin, B. Ourri, P. Mandal, I. Huc, E. Bignon, E. Dumont<sup>\*</sup>, C. Morell, J.-P. Francoia, F. Perret, **L. Vial<sup>\*</sup>** and J. Leclaire<sup>\*</sup> *Chem. Sci.*, 2019, **10**, 277
+  E. Jeamet, J. Septavaux, A. Heloin, M. Donnier-Maréchal, M. Dumartin, B. Ourri, P. Mandal, I. Huc, E. Bignon, E. Dumont<sup>\*</sup>, C. Morell, J.-P. Francoia, F. Perret, **L. Vial<sup>\*</sup>** and J. Leclaire<sup>\*</sup> *Chem. Sci.*, 2019, **10**, 277 - <font color="#159957">open access</font>  
+
+  <p align="center">
+    <img src="images/CS.jpg" width="400">
+  </p>
+
+- [Diastereoselective Synthesis of a Dyn[3]arene with Distinct Binding Behaviors toward Linear Biogenic Polyamines](https://pubs.acs.org/doi/abs/10.1021/acs.orglett.8b00766)<br />
+
+  M. Donnier-Maréchal, J. Septavaux, E. Jeamet, F. Perret, A. Héloin, E. Dumont, J.-C. Rossi, F. Ziarelli, J. Leclaire<sup>\*</sup> and **L. Vial<sup>\*</sup>** *Org. Lett.* 2018, **20**, 2420
 
   <p align="center">
     <img src="images/CS.jpg" width="400">
