@@ -14,7 +14,7 @@ layout: default
 
 # my latest publications
 
-- [A Dendrigraft of Poly-*L*-lysine as a Promising Candidate for the Reversal
+- [Dendrigraft of Poly-*L*-lysine as a Promising Candidate for the Reversal
   of Heparin-based Anticoagulants in Clinical Settings](https://pubs.acs.org/doi/10.1021/acsmedchemlett.9b00090)
 
   B. Ourri, J.-P. Francoia, G. Monard<sup>\*</sup>, J.-C. Gris<sup>\*</sup>, J. Leclaire, **L. Vial<sup>\*</sup>** *ACS. Med. Chem. Lett.*, 2019, **10**, DOI: 10.1021/acsmedchemlett.9b00090 
