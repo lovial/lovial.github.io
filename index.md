@@ -23,6 +23,10 @@ layout: default
     <img src="images/med.png" width="400">
   </p>
 
+  - highlighted by C&EN ([link](<https://cen.acs.org/pharmaceuticals/drug-development/Polymer-broader-heparin-blocker/97/web/2019/06>))
+
+  - highlighted by CNRS ([link](<https://inc.cnrs.fr/fr/cnrsinfo/un-nouvel-antidote-aux-anticoagulants-plus-efficace-que-les-proteines-naturelles>))
+
 - [Wetting the lock and key enthalpically favours polyelectrolytes binding](https://pubs.rsc.org/en/content/articlepdf/2018/sc/c8sc02966k)
 
   E. Jeamet, J. Septavaux, A. Heloin, M. Donnier-Maréchal, M. Dumartin, B. Ourri, P. Mandal, I. Huc, E. Bignon, E. Dumont<sup>\*</sup>, C. Morell, J.-P. Francoia, F. Perret, **L. Vial<sup>\*</sup>** and J. Leclaire<sup>\*</sup> *Chem. Sci.*, 2019, **10**, 277 - <font color="#159957">open access</font>  
@@ -30,6 +34,8 @@ layout: default
   <p align="center">
     <img src="images/CS.jpg" width="400">
   </p>
+
+  - highlighted by CNRS ([link](<https://inc.cnrs.fr/fr/cnrsinfo/le-role-de-leau-dans-les-recepteurs-biologiques>))
 
 - [Diastereoselective Synthesis of a Dyn[3]arene with Distinct Binding Behaviors toward Linear Biogenic Polyamines](https://pubs.acs.org/doi/abs/10.1021/acs.orglett.8b00766)<br />
 
