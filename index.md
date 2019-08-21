@@ -41,6 +41,8 @@ layout: default
 
   M. Donnier-Maréchal, J. Septavaux, E. Jeamet, F. Perret, A. Héloin, E. Dumont, J.-C. Rossi, F. Ziarelli, J. Leclaire<sup>\*</sup> and **L. Vial<sup>\*</sup>** *Org. Lett.* 2018, **20**, 2420
 
+- highlighted by CNRS ([link](<https://inc.cnrs.fr/fr/cnrsinfo/un-nouvel-antidote-aux-anticoagulants-plus-efficace-que-les-proteines-naturelles>))
+
 <p align="center">
   <img src="images/A3.jpg" width="400">
 </p>
