@@ -19,7 +19,7 @@ Working as an enhanced RSS reader filled with powerful features, including machi
 
 </p>
 
-​    Here are a few statistics about ChemBrows as of today (25/09/2018): 
+​    Here are a few statistics about ChemBrows as of today (4/09/2019): 
 
 
 | Total users    | 368  |
