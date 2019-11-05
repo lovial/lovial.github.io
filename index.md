@@ -14,18 +14,26 @@ layout: default
 
 # my latest publications
 
+- [Lost in (Clinical) Translation:  Recent Advances in Heparin Neutralization and Monitoring](<https://pubs.acs.org/doi/10.1021/acschembio.9b00772>)
+
+  B. Ourri, **L. Vial<sup>\*</sup>** *ACS. Chem. Biol.*, 2019, **14*, DOI:10.1021/acschembio.9b00772 
+
+  <p align="center">
+    <img src="images/rev.png" width="400">
+  </p>
+
 - [Dendrigraft of Poly-*L*-lysine as a Promising Candidate for the Reversal
   of Heparin-based Anticoagulants in Clinical Settings](https://pubs.acs.org/doi/10.1021/acsmedchemlett.9b00090)
 
-  B. Ourri, J.-P. Francoia, G. Monard<sup>\*</sup>, J.-C. Gris<sup>\*</sup>, J. Leclaire, **L. Vial<sup>\*</sup>** *ACS. Med. Chem. Lett.*, 2019, **10**, DOI: 10.1021/acsmedchemlett.9b00090 
+  B. Ourri, J.-P. Francoia, G. Monard<sup>\*</sup>, J.-C. Gris<sup>\*</sup>, J. Leclaire, **L. Vial<sup>\*</sup>** *ACS. Med. Chem. Lett.*, 2019, **10**, 917 
 
   <p align="center">
     <img src="images/med.png" width="400">
   </p>
 
   - highlighted by C&EN ([link](<https://cen.acs.org/pharmaceuticals/drug-development/Polymer-broader-heparin-blocker/97/web/2019/06>))
-
   - highlighted by CNRS ([link](<https://inc.cnrs.fr/fr/cnrsinfo/un-nouvel-antidote-aux-anticoagulants-plus-efficace-que-les-proteines-naturelles>))
+  - highlighted by ENS Lyon ([link](<ens-lyon.fr/actualite/recherche/de-limportance-du-mouillage-pour-une-meilleure-inclusion>))
 
 - [Wetting the lock and key enthalpically favours polyelectrolytes binding](https://pubs.rsc.org/en/content/articlepdf/2018/sc/c8sc02966k)
 
@@ -35,7 +43,7 @@ layout: default
     <img src="images/CS.jpg" width="400">
   </p>
 
-  - highlighted by CNRS ([link](<https://inc.cnrs.fr/fr/cnrsinfo/le-role-de-leau-dans-les-recepteurs-biologiques>))
+  - highlighted by CNRS ([link](<https://inc.cnrs.fr/fr/cnrsinfo/le-role-de-leau-dans-les-recepteurs-biologiques>))<br />
 
 - [Diastereoselective Synthesis of a Dyn[3]arene with Distinct Binding Behaviors toward Linear Biogenic Polyamines](https://pubs.acs.org/doi/abs/10.1021/acs.orglett.8b00766)<br />
 
