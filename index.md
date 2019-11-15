@@ -33,8 +33,12 @@ layout: default
 
 
   - highlighted by C&EN ([link](<https://cen.acs.org/pharmaceuticals/drug-development/Polymer-broader-heparin-blocker/97/web/2019/06>))
+
   - highlighted by CNRS ([link](<https://inc.cnrs.fr/fr/cnrsinfo/un-nouvel-antidote-aux-anticoagulants-plus-efficace-que-les-proteines-naturelles>))
-  - highlighted by ENS Lyon ([link](<ens-lyon.fr/actualite/recherche/de-limportance-du-mouillage-pour-une-meilleure-inclusion>))    <br/>
+
+  - highlighted by ENS Lyon ([link](<ens-lyon.fr/actualite/recherche/de-limportance-du-mouillage-pour-une-meilleure-inclusion>))   
+
+     <br/>
 
 - [Wetting the lock and key enthalpically favours polyelectrolytes binding](https://pubs.rsc.org/en/content/articlepdf/2018/sc/c8sc02966k)
 
@@ -45,7 +49,9 @@ layout: default
   </p>
 
 
-  - highlighted by CNRS ([link](<https://inc.cnrs.fr/fr/cnrsinfo/le-role-de-leau-dans-les-recepteurs-biologiques>))    <br/>
+  - highlighted by CNRS ([link](<https://inc.cnrs.fr/fr/cnrsinfo/le-role-de-leau-dans-les-recepteurs-biologiques>))    
+
+    <br/>
 
 - [Diastereoselective Synthesis of a Dyn[3]arene with Distinct Binding Behaviors toward Linear Biogenic Polyamines](https://pubs.acs.org/doi/abs/10.1021/acs.orglett.8b00766)<br />
 
