@@ -19,7 +19,7 @@ layout: default
 M. Dumartin, J. Septavaux, M. Donnier-Maréchal, E. Jeamet, E. Dumont, F. Perret<sup>\*</sup>, **L. Vial<sup>\*</sup>**, J. Leclaire<sup>\*</sup> *Chem. Sci*, 2020, *11*, 8151 - <font color="#159957">in French</font>
 
   <p align="center">
-    <img src="images/GA.tiff.jpg" width="250">
+    <img src="images/GA.png" width="250">
   </p>
 
 - [Make Anticoagulation Great Again](<http://www.lactualitechimique.org/Fiche-no-75-Make-anticoagulation-great-again>)
