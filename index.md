@@ -16,15 +16,15 @@ layout: default
 
 - [The Dark Side of Disulfide-based Combinatorial Chemistry](<https://pubs.rsc.org/en/content/articlelanding/2020/sc/d0sc02399j#!divAbstract>)
 
-  **L. Vial<sup>\*</sup>**, B. Ourri *L'Act. Chim*, 2020, *450*, 63 - <font color="#159957">open access</font>
+M. Dumartin, J. Septavaux, M. Donnier-Maréchal, E. Jeamet, E. Dumont, F. Perret<sup>\*</sup>, **L. Vial<sup>\*</sup>**, J. Leclaire<sup>\*</sup> *Chem. Sci*, 2020, *11*, 8151 - <font color="#159957">in French</font>
 
   <p align="center">
-    <img src="images/AC.jpg" width="250">
+    <img src="images/GA.tiff.jpg" width="250">
   </p>
 
 - [Make Anticoagulation Great Again](<http://www.lactualitechimique.org/Fiche-no-75-Make-anticoagulation-great-again>)
 
- M. Dumartin, J. Septavaux, M. Donnier-Maréchal, E. Jeamet, E. Dumont, F. Perret<sup>\*</sup>, **L. Vial<sup>\*</sup>**, J. Leclaire<sup>\*</sup> *Chem. Sci*, 2020, *11*, 8151 - <font color="#159957">in French</font>
+   **L. Vial<sup>\*</sup>**, B. Ourri *L'Act. Chim*, 2020, *450*, 63 - <font color="#159957">open access</font>
 
   <p align="center">
     <img src="images/AC.jpg" width="250">
