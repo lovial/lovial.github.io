@@ -14,9 +14,25 @@ layout: default
 
 # my latest publications
 
+- [The Dark Side of Disulfide-based Combinatorial Chemistry](<https://pubs.rsc.org/en/content/articlelanding/2020/sc/d0sc02399j#!divAbstract>)
+
+  **L. Vial<sup>\*</sup>**, B. Ourri *L'Act. Chim*, 2020, *450*, 63 - <font color="#159957">open access</font>
+
+  <p align="center">
+    <img src="images/AC.jpg" width="250">
+  </p>
+
+- [Make Anticoagulation Great Again](<http://www.lactualitechimique.org/Fiche-no-75-Make-anticoagulation-great-again>)
+
+ M. Dumartin, J. Septavaux, M. Donnier-Maréchal, E. Jeamet, E. Dumont, F. Perret<sup>\*</sup>, **L. Vial<sup>\*</sup>**, J. Leclaire<sup>\*</sup> *Chem. Sci*, 2020, *11*, 8151 - <font color="#159957">in French</font>
+
+  <p align="center">
+    <img src="images/AC.jpg" width="250">
+  </p>
+
 - [Lost in (Clinical) Translation:  Recent Advances in Heparin Neutralization and Monitoring](<https://pubs.acs.org/doi/10.1021/acschembio.9b00772>)
 
-  B. Ourri, **L. Vial<sup>\*</sup>** *ACS. Chem. Biol.*, 2019, *14*, DOI:10.1021/acschembio.9b00772 
+  B. Ourri, **L. Vial<sup>\*</sup>** *ACS. Chem. Biol.*, 2019, *14*, 2512 
 
   <p align="center">
     <img src="images/rev.png" width="250">
@@ -31,14 +47,13 @@ layout: default
     <img src="images/med.png" width="250">
   </p>
 
-
   - highlighted by C&EN ([link](<https://cen.acs.org/pharmaceuticals/drug-development/Polymer-broader-heparin-blocker/97/web/2019/06>))
 
   - highlighted by CNRS ([link](<https://inc.cnrs.fr/fr/cnrsinfo/un-nouvel-antidote-aux-anticoagulants-plus-efficace-que-les-proteines-naturelles>))
 
-  - highlighted by ENS Lyon ([link](<ens-lyon.fr/actualite/recherche/de-limportance-du-mouillage-pour-une-meilleure-inclusion>))   
+  - highlighted by ENS Lyon ([link](<ens-lyon.fr/actualite/recherche/de-limportance-du-mouillage-pour-une-meilleure-inclusion>))           
 
-     <br/>
+    <br />
 
 - [Wetting the lock and key enthalpically favours polyelectrolytes binding](https://pubs.rsc.org/en/content/articlepdf/2018/sc/c8sc02966k)
 
@@ -48,10 +63,9 @@ layout: default
     <img src="images/CS.jpg" width="250">
   </p>
 
+  - highlighted by CNRS ([link](<https://inc.cnrs.fr/fr/cnrsinfo/le-role-de-leau-dans-les-recepteurs-biologiques>))          
 
-  - highlighted by CNRS ([link](<https://inc.cnrs.fr/fr/cnrsinfo/le-role-de-leau-dans-les-recepteurs-biologiques>))    
-
-    <br/>
+    <br />
 
 - [Diastereoselective Synthesis of a Dyn[3]arene with Distinct Binding Behaviors toward Linear Biogenic Polyamines](https://pubs.acs.org/doi/abs/10.1021/acs.orglett.8b00766)<br />
 
@@ -61,14 +75,12 @@ layout: default
   <img src="images/A3.jpg" width="250">
 </p>
 
-
 - [Everything you always wanted to know about poly-*L*-lysine dendrigrafts (but were afraid to ask)](http://onlinelibrary.wiley.com/wol1/doi/10.1002/chem.201704147/abstract)<br />
 
   J.-P. Francoia and **L. Vial<sup>\*</sup>** *Chem. Eur. J.*, 2018, **24**, 2806 
 <p align="center">
   <img src="images/review.jpg" width="250">
 </p>
-
 
 - [Digitizing Poly-*L*-Lysine Dendrigrafts: from Experimental Data to Molecular Dynamics Simulations](http://pubs.acs.org/doi/pdf/10.1021/acs.jcim.7b00258)<br />
 
@@ -77,14 +89,12 @@ layout: default
   <img src="images/digitizing.jpg" width="250">
 </p>
 
-
 - [Chirality Sensing and Discrimination of Lysine Derivatives in Physiological Conditions with a Dyn[4]arene](http://pubs.rsc.org/en/content/articlelanding/2016/cc/c6cc07713g)<br />
 
   **L. Vial<sup>\*</sup>**, M. Dumartin, M. Donnier-MarÃ©chal, F. Perret, J.-P. Francoia, J. Leclaire<sup>\*</sup> *Chem. Commun.*, 2016, **52**, 14219
 <p align="center">
   <img src="images/chirality.jpg" width="250">
 </p>
-
 
 - [On-demand Cyclophanes: Substituent-directed Self-assembling, Folding and Binding](http://pubs.acs.org/doi/abs/10.1021/acs.joc.5b02605)
 
@@ -93,14 +103,12 @@ layout: default
   <img src="images/dynana.png" width="250">
 </p>
 
-
 - [ChemBrows: An Open-Source Application Software To Keep Up to Date with the Current Literature](http://pubs.acs.org/doi/abs/10.1021/acs.jchemed.6b00024)
 
   J.-P. Francoia and **L. Vial<sup>\*</sup>** *J. Chem. Educ*, 2016, **93**, 1137 - <font color="#159957">open access</font>  
 <p align="center">
   <img src="images/cb.png" width="250">
 </p>
-
 
 - [A KISS (Keep It Simple, Sensor) Array for Glycosaminoglycans](http://pubs.rsc.org/en/content/articlelanding/2014/cc/c5cc07628e\#!divAbstract)
 
@@ -109,14 +117,12 @@ layout: default
   <img src="images/kiss.jpg" width="250">
 </p>
 
-
 - [Monitoring Clinical Levels of Heparin in Human Blood Samples with an Indicator-Displacement Assay](http://pubs.rsc.org/en/Content/ArticleLanding/2015/CC/c4cc08563a\#!divAbstract)
 
   J.-P. Francoia, R. Pascal, and **L. Vial<sup>\*</sup>** *Chem. Commun.*, 2015, **51**, 1953 
 <p align="center">
   <img src="images/heparin.jpg" width="250">
 </p>
-
 
 - [Reduction with tris(2-carboxyethyl)phosphine (TCEP) enables the use of S-sulphonate protecting group for thiol-mediated bioconjugation](http://pubs.rsc.org/en/content/articlelanding/2014/ra/c3ra47407k#!divAbstract)
 
